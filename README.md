@@ -46,8 +46,6 @@ O template é dividido nas seguintes seções principais:
 2. **Edite o Template:** Abra o arquivo Markdown e preencha cada seção com as informações do seu jogo.
 3. **Personalize:** Adapte e adicione seções conforme necessário para atender às necessidades específicas do seu projeto.
 
-Esperamos que este template ajude você a criar jogos incríveis e bem documentados!
-
 # Sumário
 
 1. [Informações Gerais](#1-informações-gerais)

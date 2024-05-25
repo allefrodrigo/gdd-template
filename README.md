@@ -1,9 +1,8 @@
-![Markdown](https://img.shields.io/badge/Markdown-%23%23302c9b.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-orange?style=for-the-badge)
-![Versão](https://img.shields.io/badge/Versão-1.0-blue?style=for-the-badge)
-![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge)
+![Versão](https://img.shields.io/badge/Versão-0.2-blue?style=for-the-badge)
+![Markdown](https://img.shields.io/badge/Markdown-%23%23302c9b.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 
 # GDD Template
@@ -120,82 +119,98 @@ Esperamos que este template ajude você a criar jogos incríveis e bem documenta
 ## 1. Informações Gerais
 
 ### 1.1. Título do Jogo
-*[Dica: Escolha um título que capture a essência do jogo.]*
+*[Dica: Escolha um título que capture a essência do jogo. Deve ser algo cativante e fácil de lembrar. Por exemplo, "Aventura Mágica" para um jogo de fantasia ou "Corrida Implacável" para um jogo de corrida.]*
 - **Título:** 
 
 ### 1.2. Plataforma
-*[Dica: Especifique todas as plataformas onde o jogo estará disponível (PC, console, mobile).]*
+*[Dica: Especifique todas as plataformas onde o jogo estará disponível. Isso pode incluir PC, consoles (como PlayStation, Xbox, Nintendo Switch), e dispositivos móveis (iOS, Android). Por exemplo, "Disponível para PC, PlayStation 5 e Xbox Series X".]*
 
 ### 1.3. Gênero
-*[Dica: Defina o gênero do jogo (ex: RPG, FPS, Puzzle).]*
+*[Dica: Defina o gênero do jogo. Isso ajuda a estabelecer as expectativas dos jogadores e a direcionar o desenvolvimento. Exemplos de gêneros incluem RPG (Role-Playing Game), FPS (First-Person Shooter), Puzzle (Quebra-cabeça), Aventura, Plataforma, Estratégia, etc. Por exemplo, "RPG de Ação".]*
 
 ### 1.4. Público-Alvo
-*[Dica: Descreva o público-alvo do jogo (faixa etária, interesses, etc.).]*
+*[Dica: Descreva o público-alvo do jogo. Considere fatores como faixa etária, interesses, nível de habilidade e preferências de jogo. Por exemplo, "Crianças de 8 a 12 anos interessadas em aventuras mágicas" ou "Adultos que gostam de jogos de estratégia complexos".]*
 
 ### 1.5. Visão Geral do Jogo
-*[Dica: Forneça uma breve descrição do jogo, destacando os principais elementos de gameplay e história.]*
+*[Dica: Forneça uma breve descrição do jogo, destacando os principais elementos de gameplay e história. Pense nisso como um resumo que pode ser usado para promover o jogo. Por exemplo, "Aventura Mágica é um RPG de ação onde os jogadores exploram um mundo fantástico, lutam contra criaturas místicas e resolvem puzzles para salvar o reino." ]*
 - **Descrição:**
 
 ## 2. Mecânicas de Jogo
 
 ### 2.1. Regras Básicas
-*[Dica: Explique as regras fundamentais do jogo.]*
+*[Dica: Explique as regras fundamentais do jogo. Isso inclui como o jogo é jogado, as condições de vitória e derrota, e quaisquer restrições importantes. Por exemplo, "Os jogadores devem coletar todos os itens em um nível para avançar para o próximo. Se o jogador perder todas as vidas, o jogo termina."]*
 - **Regras:**
 
 ### 2.2. Controles
-*[Dica: Descreva os controles básicos para cada plataforma.]*
+*[Dica: Descreva os controles básicos para cada plataforma. Inclua todos os botões e ações correspondentes. Por exemplo, para um jogo de plataforma: "No teclado, use as setas para mover, espaço para pular, e 'E' para interagir. No controle do Xbox, use o analógico esquerdo para mover, 'A' para pular, e 'X' para interagir."]*
 - **Controles:**
 
 ### 2.3. Objetivos e Metas
-*[Dica: Defina os principais objetivos e metas que o jogador deve alcançar.]*
+*[Dica: Defina os principais objetivos e metas que o jogador deve alcançar. Estes podem ser objetivos a longo prazo (como derrotar o chefe final) ou a curto prazo (como completar uma missão específica). Por exemplo, "O objetivo principal é salvar a princesa, mas o jogador também deve completar missões secundárias para ganhar pontos de experiência e melhorar suas habilidades."]*
 - **Objetivos:**
 
 ### 2.4. Sistema de Pontuação
-*[Dica: Descreva como os pontos são atribuídos e quais são os critérios de pontuação.]*
+*[Dica: Descreva como os pontos são atribuídos e quais são os critérios de pontuação. Inclua detalhes sobre bônus, multiplicadores e penalidades. Por exemplo, "Os jogadores ganham 10 pontos por inimigo derrotado e 50 pontos por completar um nível. Colecionar itens especiais dá pontos de bônus."]*
 - **Pontuação:**
 
 ### 2.5. Mecânicas de Interação
-*[Dica: Detalhe como os jogadores interagem com o ambiente e outros personagens.]*
+*[Dica: Detalhe como os jogadores interagem com o ambiente e outros personagens. Isso pode incluir combates, diálogos, exploração, resolução de puzzles, etc. Por exemplo, "Os jogadores podem conversar com NPCs para obter informações, lutar contra inimigos usando uma combinação de ataques corpo a corpo e mágicos, e resolver puzzles para desbloquear novas áreas."]*
 - **Interação:**
 
 ### 2.6. Sistemas de Progressão e Recompensas
-*[Dica: Explique como o jogador progride no jogo e quais são as recompensas.]*
+*[Dica: Explique como o jogador progride no jogo e quais são as recompensas. Isso pode incluir níveis de personagem, habilidades desbloqueáveis, equipamentos, etc. Por exemplo, "Os jogadores ganham pontos de experiência ao derrotar inimigos e completar missões. Ao subir de nível, podem desbloquear novas habilidades e melhorar atributos como força e agilidade."]*
 - **Progressão:**
 - **Recompensas:**
 
 ### 2.7. Inteligência Artificial (IA)
-*[Dica: Descreva o comportamento da IA e como ela interage com o jogador.]*
+*[Dica: Descreva o comportamento da IA e como ela interage com o jogador. Isso pode incluir como os inimigos reagem ao jogador, como os NPCs se comportam, etc. Por exemplo, "Os inimigos patrulham áreas específicas e atacam o jogador ao avistá-lo. NPCs podem oferecer missões, dicas ou comerciar itens com o jogador."]*
 - **IA:**
 
 ### 2.8. Dinâmicas de Jogo
-*[Dica: Detalhe as dinâmicas de jogo que emergem das mecânicas.]*
+*[Dica: Detalhe as dinâmicas de jogo que emergem das mecânicas. Isso inclui como diferentes mecânicas interagem para criar experiências de jogo. Por exemplo, "O sistema de combate interage com o sistema de progressão, permitindo que os jogadores usem habilidades adquiridas em níveis anteriores para derrotar inimigos mais difíceis."]*
 - **Dinâmicas:**
 
 ### 2.9. Economia do Jogo
-*[Dica: Explique como a economia do jogo funciona, incluindo moedas, recursos, e sistema de comércio.]*
+*[Dica: Explique como a economia do jogo funciona, incluindo moedas, recursos, e sistema de comércio. Por exemplo, "Os jogadores ganham ouro ao derrotar inimigos e completar missões. O ouro pode ser usado para comprar armas, armaduras e poções em lojas espalhadas pelo mundo do jogo."]*
 - **Economia:**
 
 ## 3. Narrativa
 
 ### 3.1. História Principal
-*[Dica: Apresente um resumo da história principal do jogo.]*
+*[Dica: Apresente um resumo da história principal do jogo. Destaque o enredo principal, incluindo o cenário, o protagonista, o antagonista e o conflito central. Por exemplo, "Em um reino mágico ameaçado por um feiticeiro maligno, um jovem herói deve embarcar em uma jornada épica para coletar artefatos lendários e salvar o mundo."]*
 - **Resumo:**
 
 ### 3.2. Personagens
-*[Dica: Liste e descreva os personagens principais e suas características.]*
-- **Personagens:**
+*[Dica: Liste e descreva os personagens principais e suas características. Inclua informações sobre a aparência, personalidade, habilidades e papel na história. Por exemplo: 
+1. **Herói:** Um jovem corajoso com habilidades mágicas. Determinado e altruísta, ele busca salvar o reino.
+2. **Feiticeiro Maligno:** O antagonista principal, que deseja dominar o mundo com sua magia negra.
+3. **Mentor:** Um sábio ancião que guia o herói em sua jornada, fornecendo conselhos e treinamento.
+4. **Aliados:** Companheiros que ajudam o herói em sua missão, cada um com habilidades únicas.]*
 
 ### 3.3. Cenários
-*[Dica: Descreva os principais cenários e ambientes do jogo.]*
-- **Cenários:**
+*[Dica: Descreva os principais cenários e ambientes do jogo. Inclua detalhes sobre a aparência, atmosfera e elementos interativos. Por exemplo:
+1. **Floresta Encantada:** Um local misterioso cheio de criaturas mágicas e segredos escondidos.
+2. **Castelo do Feiticeiro:** A fortaleza sombria onde o antagonista reside, repleta de armadilhas e inimigos perigosos.
+3. **Cidade do Herói:** Uma cidade vibrante e movimentada, onde o jogador pode encontrar missões secundárias e itens úteis.]*
 
 ### 3.4. Missões e Quests
-*[Dica: Detalhe as principais missões e quests do jogo, incluindo objetivos e recompensas.]*
-- **Missões:**
+*[Dica: Detalhe as principais missões e quests do jogo, incluindo objetivos e recompensas. Divida as missões principais e secundárias. Por exemplo:
+1. **Missão Principal:** Recupere o artefato sagrado do Templo Antigo para impedir o feiticeiro.
+    - **Objetivo:** Encontrar e trazer de volta o artefato.
+    - **Recompensa:** Uma nova habilidade mágica e progresso na história.
+2. **Missão Secundária:** Ajudar o ferreiro da cidade a encontrar materiais raros.
+    - **Objetivo:** Coletar 5 pedaços de minério encantado.
+    - **Recompensa:** Uma espada poderosa e pontos de experiência.]*
 
 ### 3.5. Roteiro e Diálogos
-*[Dica: Inclua trechos de diálogos importantes e o roteiro geral do jogo.]*
+*[Dica: Inclua trechos de diálogos importantes e o roteiro geral do jogo. Destaque as conversas chave que avançam a história e desenvolvem os personagens. Por exemplo:
+**Herói:** "Não posso deixar o feiticeiro destruir tudo o que amamos. Eu preciso encontrar o artefato."
+**Mentor:** "Lembre-se, jovem herói, o poder verdadeiro vem de dentro. Use sua coragem e sabedoria para superar os desafios."
+**Feiticeiro:** "Vocês nunca poderão me deter! Meu poder é absoluto e o mundo será meu!" 
+Descreva também a estrutura geral do roteiro, incluindo cenas cinematográficas e eventos importantes.]*
+
 - **Diálogos:**
+
 
 ## 4. Design de Níveis
 

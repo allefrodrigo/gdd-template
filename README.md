@@ -184,20 +184,20 @@ O template é dividido nas seguintes seções principais:
 - **Resumo:**
 
 ### 3.2. Personagens
-*[Dica: Liste e descreva os personagens principais e suas características. Inclua informações sobre a aparência, personalidade, habilidades e papel na história. Por exemplo:]*
+*[Dica: Liste e descreva os personagens principais e suas características. Inclua informações sobre a aparência, personalidade, habilidades e papel na história.]* Por exemplo:
 1. **Herói:** Um jovem corajoso com habilidades mágicas. Determinado e altruísta, ele busca salvar o reino.
 2. **Feiticeiro Maligno:** O antagonista principal, que deseja dominar o mundo com sua magia negra.
 3. **Mentor:** Um sábio ancião que guia o herói em sua jornada, fornecendo conselhos e treinamento.
 4. **Aliados:** Companheiros que ajudam o herói em sua missão, cada um com habilidades únicas.
 
 ### 3.3. Cenários
-*[Dica: Descreva os principais cenários e ambientes do jogo. Inclua detalhes sobre a aparência, atmosfera e elementos interativos. Por exemplo:]*
+*[Dica: Descreva os principais cenários e ambientes do jogo. Inclua detalhes sobre a aparência, atmosfera e elementos interativos.]* Por exemplo:
 1. **Floresta Encantada:** Um local misterioso cheio de criaturas mágicas e segredos escondidos.
 2. **Castelo do Feiticeiro:** A fortaleza sombria onde o antagonista reside, repleta de armadilhas e inimigos perigosos.
 3. **Cidade do Herói:** Uma cidade vibrante e movimentada, onde o jogador pode encontrar missões secundárias e itens úteis.
 
 ### 3.4. Missões e Quests
-*[Dica: Detalhe as principais missões e quests do jogo, incluindo objetivos e recompensas. Divida as missões principais e secundárias. Por exemplo:]*
+*[Dica: Detalhe as principais missões e quests do jogo, incluindo objetivos e recompensas. Divida as missões principais e secundárias.]* Por exemplo:
 1. **Missão Principal:** Recupere o artefato sagrado do Templo Antigo para impedir o feiticeiro.
     - **Objetivo:** Encontrar e trazer de volta o artefato.
     - **Recompensa:** Uma nova habilidade mágica e progresso na história.
@@ -206,10 +206,10 @@ O template é dividido nas seguintes seções principais:
     - **Recompensa:** Uma espada poderosa e pontos de experiência.
 
 ### 3.5. Roteiro e Diálogos
-*[Dica: Inclua trechos de diálogos importantes e o roteiro geral do jogo. Destaque as conversas chave que avançam a história e desenvolvem os personagens. Por exemplo:]*
-**Herói:** "Não posso deixar o feiticeiro destruir tudo o que amamos. Eu preciso encontrar o artefato."
-**Mentor:** "Lembre-se, jovem herói, o poder verdadeiro vem de dentro. Use sua coragem e sabedoria para superar os desafios."
-**Feiticeiro:** "Vocês nunca poderão me deter! Meu poder é absoluto e o mundo será meu!" 
+*[Dica: Inclua trechos de diálogos importantes e o roteiro geral do jogo. Destaque as conversas chave que avançam a história e desenvolvem os personagens.]* Por exemplo:
+**Herói:** "Não posso deixar o feiticeiro destruir tudo o que amamos. Eu preciso encontrar o artefato."<br>
+**Mentor:** "Lembre-se, jovem herói, o poder verdadeiro vem de dentro. Use sua coragem e sabedoria para superar os desafios."<br>
+**Feiticeiro:** "Vocês nunca poderão me deter! Meu poder é absoluto e o mundo será meu!" <br>
 Descreva também a estrutura geral do roteiro, incluindo cenas cinematográficas e eventos importantes.
 
 - **Diálogos:**

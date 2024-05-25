@@ -316,12 +316,12 @@ Descreva também a estrutura geral do roteiro, incluindo cenas cinematográficas
 - **Sumário:**
 
 ### 10.2. Próximos Passos
-*[Dica: Liste as próximas etapas no desenvolvimento do jogo. Inclua marcos importantes e um cronograma aproximado. Por exemplo, "Os próximos passos no desenvolvimento do jogo incluem:
+*[Dica: Liste as próximas etapas no desenvolvimento do jogo. Inclua marcos importantes e um cronograma aproximado. Por exemplo, "Os próximos passos no desenvolvimento do jogo incluem:]*
 1. **Prototipagem:** Criar protótipos jogáveis das principais mecânicas de jogo até o final do mês.
 2. **Desenvolvimento Alfa:** Desenvolver a primeira versão completa do jogo com todos os níveis e mecânicas principais até o final do trimestre.
 3. **Teste Alfa:** Realizar testes internos e com um grupo seleto de jogadores para identificar e corrigir bugs.
 4. **Desenvolvimento Beta:** Refinar o jogo com base no feedback dos testes alfa e adicionar conteúdo adicional até o final do segundo trimestre.
 5. **Teste Beta:** Abrir o jogo para testes beta públicos e coletar feedback abrangente.
-6. **Lançamento:** Preparar e lançar a versão final do jogo, incluindo campanhas de marketing e distribuição, até o final do ano."]*
+6. **Lançamento:** Preparar e lançar a versão final do jogo, incluindo campanhas de marketing e distribuição, até o final do ano."
 - **Próximos Passos:**
 

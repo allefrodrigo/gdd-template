@@ -63,7 +63,6 @@
     10.1. [Sumário](#sumário)  
     10.2. [Próximos Passos](#próximos-passos)  
 
-
 ## 1. Informações Gerais
 
 ### 1.1. Título do Jogo

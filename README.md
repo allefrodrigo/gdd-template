@@ -293,10 +293,10 @@ Descreva também a estrutura geral do roteiro, incluindo cenas cinematográficas
 - **Modelo:**
 
 ### 8.2. Itens Pagos
-*[Dica: Liste os itens ou conteúdos que estarão disponíveis para compra. Inclua detalhes sobre o que cada item oferece e seu preço. Por exemplo, "Os itens pagos incluirão:
-1. **Skins de Personagens:** Variações visuais dos personagens principais por $1,99 cada.
-2. **Pacotes de Moedas:** Moedas do jogo que podem ser usadas para comprar itens e upgrades, disponíveis em pacotes de $0,99, $4,99 e $9,99.
-3. **DLCs:** Pacotes de expansão com novos níveis, missões e personagens por $9,99 cada."]*
+*[Dica: Liste os itens ou conteúdos que estarão disponíveis para compra. Inclua detalhes sobre o que cada item oferece e seu preço. Por exemplo, "Os itens pagos incluirão:]*
+1. **Skins de Personagens:** Variações visuais dos personagens principais por R$1,99 cada.
+2. **Pacotes de Moedas:** Moedas do jogo que podem ser usadas para comprar itens e upgrades, disponíveis em pacotes de R$0,99, R$4,99 e R$9,99.
+3. **DLCs:** Pacotes de expansão com novos níveis, missões e personagens por R$9,99 cada."
 - **Itens:**
 
 ## 9. Testes e Qualidade

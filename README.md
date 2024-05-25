@@ -1,8 +1,13 @@
+![Static Badge](https://img.shields.io/badge/Markdown-%23%23302c9b.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Static Badge](https://img.shields.io/badge/GitHub-%23%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Static Badge](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Status-Em%20Desenvolvimento-orange?style=for-the-badge)
+
+
 # GDD Template
 
-## Descrição
+Este repositório contém um template completo para um Documento de Design de Jogo (GDD) em português, estruturado em Markdown. Esse template visa fornecer uma base sólida e organizada para que desenvolvedores de jogos possam documentar todos os aspectos importantes do design de seus jogos de maneira detalhada e estruturada.
 
-Este repositório contém um template completo para um Documento de Design de Jogo (GDD) em português, estruturado em Markdown. O objetivo deste repositório é fornecer uma base sólida para desenvolvedores de jogos documentarem de forma detalhada e organizada todas as informações pertinentes ao design de seus jogos.
 
 ## Objetivo
 
@@ -10,7 +15,6 @@ O objetivo principal deste repositório é ajudar desenvolvedores de jogos, desd
 
 ## Para quem é destinado
 
-Este repositório é destinado a:
 - **Desenvolvedores de Jogos:** Que estão no processo de criar e documentar seus jogos.
 - **Estudantes de Game Design:** Que desejam aprender e praticar a criação de GDDs.
 - **Equipes de Desenvolvimento:** Que precisam de uma estrutura clara e colaborativa para planejar e documentar o design do jogo.

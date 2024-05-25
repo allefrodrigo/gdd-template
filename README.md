@@ -10,6 +10,7 @@
 ![Versão](https://img.shields.io/badge/Versão-0.2.1-blue?style=for-the-badge)
 ![Markdown](https://img.shields.io/badge/Markdown-%23%23302c9b.svg?style=for-the-badge&logo=markdown&logoColor=white)
 </p>
+
 # GDD Template
 
 Este repositório contém um template completo para um Documento de Design de Jogo (GDD) em português, estruturado em Markdown. Esse template visa fornecer uma base sólida e organizada para que desenvolvedores de jogos possam documentar todos os aspectos importantes do design de seus jogos de maneira detalhada e estruturada.

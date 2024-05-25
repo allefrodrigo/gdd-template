@@ -208,9 +208,9 @@ O template é dividido nas seguintes seções principais:
 ### 3.5. Roteiro e Diálogos
 *[Dica: Inclua trechos de diálogos importantes e o roteiro geral do jogo. Destaque as conversas chave que avançam a história e desenvolvem os personagens.]* Por exemplo:<br>
 
-**Herói:** —"Não posso deixar o feiticeiro destruir tudo o que amamos. Eu preciso encontrar o artefato."<br>
-**Mentor:** —"Lembre-se, jovem herói, o poder verdadeiro vem de dentro. Use sua coragem e sabedoria para superar os desafios."<br>
-**Feiticeiro:** —"Vocês nunca poderão me deter! Meu poder é absoluto e o mundo será meu!" <br>
+**Herói:** <br>—"Não posso deixar o feiticeiro destruir tudo o que amamos. Eu preciso encontrar o artefato."<br>
+**Mentor:** <br>—"Lembre-se, jovem herói, o poder verdadeiro vem de dentro. Use sua coragem e sabedoria para superar os desafios."<br>
+**Feiticeiro:** <br>—"Vocês nunca poderão me deter! Meu poder é absoluto e o mundo será meu!" <br>
 
 Descreva também a estrutura geral do roteiro, incluindo cenas cinematográficas e eventos importantes.
 

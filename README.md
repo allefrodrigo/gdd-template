@@ -1,9 +1,12 @@
 ![GitHub](https://img.shields.io/badge/GitHub-%23%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-orange?style=for-the-badge)
-![Versão](https://img.shields.io/badge/Versão-0.2-blue?style=for-the-badge)
+![Versão](https://img.shields.io/badge/Versão-0.2.1-blue?style=for-the-badge)
 ![Markdown](https://img.shields.io/badge/Markdown-%23%23302c9b.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
+<p align="center">
+  <img src="https://i.ibb.co/56s7K8j/292330192-445386850928422-7259301303587158181-n-jpg.png" alt="Minimalist RPG GDD Banner">
+</p>
 
 # GDD Template
 

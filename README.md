@@ -14,7 +14,6 @@
 
 Este repositório contém um template completo para um Documento de Design de Jogo (GDD) em português, estruturado em Markdown. Esse template visa fornecer uma base sólida e organizada para que desenvolvedores de jogos possam documentar todos os aspectos importantes do design de seus jogos de maneira detalhada e estruturada.
 
-
 ## Objetivo
 
 O objetivo principal deste repositório é ajudar desenvolvedores de jogos, desde iniciantes até veteranos, a criarem documentos de design bem estruturados e abrangentes. Este template cobre uma ampla gama de tópicos importantes, incluindo mecânicas de jogo, narrativa, design de níveis, arte, áudio, monetização, e muito mais.
@@ -319,4 +318,5 @@ Descreva também a estrutura geral do roteiro, incluindo cenas cinematográficas
 5. **Teste Beta:** Abrir o jogo para testes beta públicos e coletar feedback abrangente.
 6. **Lançamento:** Preparar e lançar a versão final do jogo, incluindo campanhas de marketing e distribuição, até o final do ano."
 - **Próximos Passos:**
+
 

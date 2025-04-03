@@ -12,7 +12,7 @@
 
 # GDD Template
 
-Adaptado para utilização do Wiki
+Adaptado do [original](https://github.com/allefrodrigo/gdd-template) para utilização do Wiki
 
 # Sumário
 -   [Home](https://github.com/alinefbrito/gdd-template/wiki)
